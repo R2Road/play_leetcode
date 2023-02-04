@@ -1,3 +1,3 @@
-# leetcode_playground
+# play_leetcode
 
 with https://leetcode.com/
